@@ -1,5 +1,5 @@
-# 忽略嵌入的 git 仓库
-cfr/
+# 注意：cfr/ 是项目核心代码，应该包含在版本控制中
+# cfr/
 
 # Python
 __pycache__/

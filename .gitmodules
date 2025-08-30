@@ -1,0 +1,3 @@
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/fzhu2e/cfr.git
