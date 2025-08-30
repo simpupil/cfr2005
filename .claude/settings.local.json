@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(pip3:*)",
+      "Bash(brew:*)",
+      "Bash(conda:*)",
+      "Read(//Users/apple/**)",
+      "Read(//opt/**)",
+      "Read(//Users/**)",
+      "Bash(~/miniconda3/bin/conda --version)",
+      "Bash(cd:*)",
+      "Bash(~/miniconda3/bin/conda env create:*)",
+      "Bash(~/miniconda3/bin/conda activate cfr-env)",
+      "Bash(~/miniconda3/bin/conda init zsh)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(cfr:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
